@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# TrueFitAI V3.0
+# TrueFitAI
 """
 **Architecture:**
 - **Tier 0** — Input validation & YOLO person detection
