@@ -36,7 +36,7 @@ Tier 5 -- Uncertainty Quantification
 
 ### VisionPreprocessor
 
--   YOLOv8 person detection
+-   YOLO26x person detection
 -   Bounding box cropping
 -   CLAHE normalization
 -   Resize to 512x768
@@ -190,7 +190,7 @@ Model store (SMPL-X weights) - Data store (ANSUR II dataset)
 
   Layer             Technology
   ----------------- ---------------------
-  Detection         YOLOv8
+  Detection         YOLO26x
   Pose              MediaPipe Heavy
   Depth             MiDaS DPT_Large
   3D Model          SMPL-X
