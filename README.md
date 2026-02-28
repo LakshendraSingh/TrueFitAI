@@ -1,14 +1,11 @@
-# TrueFitAI V2.0 --- Production Architecture
+# TrueFitAI
 
 ## Overview
 
-TrueFitAI V2.0 is an end-to-end AI-powered body sizing pipeline that
+TrueFitAI is an end-to-end AI-powered body sizing pipeline that
 combines computer vision, 3D parametric modeling, statistical shape
 priors, and calibrated machine learning to produce accurate apparel size
 recommendations from a single image and height input.
-
-This README documents the production-grade system architecture derived
-directly from `truefitai_v2_0.py`.
 
 ------------------------------------------------------------------------
 
